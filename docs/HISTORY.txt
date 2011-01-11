@@ -1,7 +1,7 @@
 Changelog
 =========
 
-1.0dvldev (unreleased)
-----------------------
+1.0-SNAPSHOT (unreleased)
+-------------------------
 
 - Initial release
