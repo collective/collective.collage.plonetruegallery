@@ -4,10 +4,6 @@
     xmlns:five="http://namespaces.zope.org/five"
     i18n_domain="collective.collage.maps">
 
-  <class class="Products.Collage.content.Collage"> 
-    <implements interface="collective.plonetruegallery.interfaces.IGallery" /> 
-  </class>
-
   <browser:page
      name="gallery-view"
      for="Products.ATContentTypes.content.topic.ATTopic"
