@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import os
 
-version = '1.0dvl'
+version = '1.0a1'
 
 setup(name='collective.collage.plonetruegallery',
       version=version,
