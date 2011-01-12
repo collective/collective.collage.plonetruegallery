@@ -4,9 +4,6 @@ Introduction
 This product allows to re-use a Gallery view (from
 collective.plonetruegallery_) of a Collection in a Collage_.
 
-.. _collective.plonetruegallery: http://www.plone.org/products/plone-true-gallery
-.. _Collage: http://www.plone.org/products/collage
-
 Installation
 ============
 
@@ -35,9 +32,6 @@ Tested with:
 * Products.Collage 1.3
 * collective.plonetruegallery >= 1.0.2
 
-To do
-=====
+.. _collective.plonetruegallery: http://www.plone.org/products/plone-true-gallery
+.. _Collage: http://www.plone.org/products/collage
 
-- Presently, when the "gallery-view" layout is selected, the Collage block's
-  buttons are not shown. The only way to change the layout is to remove and
-  re-add the block.
