@@ -4,6 +4,7 @@ Changelog
 1.0-SNAPSHOT (unreleased)
 -------------------------
 
+- Moved to https://github.com/collective/collective.collage.plonetruegallery
 - Break out of try/except as soon as possible
 
 1.0b1 (2011-01-12)
