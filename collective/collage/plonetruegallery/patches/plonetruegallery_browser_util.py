@@ -9,7 +9,7 @@ logging.getLogger('collective.collage.plonetruegallery').warn("Monkey patching c
 def enabled(self):
     utils = getToolByName(self.context, 'plone_utils')
     try:
-        view_name = utils.browserDefault(self.context)[1][0] 
+        view_name = utils.browserDefault(self.context)[1][0]
     except:
         return False
     return view_name in ["galleryview","collage_view"]
